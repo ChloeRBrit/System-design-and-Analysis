@@ -1,1 +1,3 @@
 # System-design-and-Analysis
+
+Driverpass commissioned this project, seeking a system to assist individuals in preparing for their driving tests. While I believe the diagrams were executed effectively, I acknowledge the opportunity to enhance the Gantt chart. I aim to provide clearer explanations and utilize distinct colors for better differentiation. I ensured the design incorporated all requested elements, including packages, personal accounts, admin access to user profiles, and the ability to conduct tests. For future software development endeavors, meticulous planning will remain a priority, facilitating a smoother creation process. The use of comprehensive diagrams significantly contributes to this streamlined approach.
